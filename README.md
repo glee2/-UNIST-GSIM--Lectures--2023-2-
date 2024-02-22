@@ -1,1 +1,1 @@
-# -UNIST-GSIM--Lectures--2023-2-
+# [UNIST GSIM] Lectures 2023-2
